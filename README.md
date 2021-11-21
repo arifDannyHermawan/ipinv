@@ -32,5 +32,3 @@ yarn serve
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/byre54/mona)
 
-#### BUY ME A COFFEE
-0x7342c7d7B8D0aE7FeCe192a15F5Ba5243dcCA45F
